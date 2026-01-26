@@ -1,4 +1,4 @@
-# Vlad Studennikov
+# Vlad Studennykov
 
 Web developer with 1.5+ years of experience. Currently developing my skills in data science.
 
