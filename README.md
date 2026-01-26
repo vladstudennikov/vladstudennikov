@@ -1,7 +1,6 @@
 # Vlad Studennikov
 
-Data Analyst / Data Scientist 
-Background in software development (PHP, 1.5+ years of experience), applied statistics and researches.
+Web developer with 1.5+ years of experience. Currently developing my skills in data science.
 
 ---
 
