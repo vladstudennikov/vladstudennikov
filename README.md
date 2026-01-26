@@ -65,7 +65,7 @@ Simple ETL pipeline with AI agent that estimates risk of transactions.
 Tech stack: Python, C++, Apache Kafka.
 
 Repository:  
-👉 https://github.com/vladstudennikov/etl-pipeline
+👉 https://github.com/vladstudennikov/transactions-etl-pipeline
 
 ---
 
