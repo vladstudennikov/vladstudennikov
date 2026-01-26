@@ -51,7 +51,7 @@ Web-app for predicting and controlling diabetes.
 Created the ML model for predicting diabetes, integrated it with the web-app that provides test for predicting diabetes and functionality for controlling nutrition and physical activity.
 Tech stack: Php, Laravel (& Breeze), Vue.js, Inertia.js, Python, Fast API, ml-stack (numpy, pandas, matplotlib, statmodels, scikit-learn, seaborn, scipy). 
 
-Repository:  
+**Repository**:  
 👉 https://github.com/vladstudennikov/diabetes-prediction-app
 
 ---
@@ -63,7 +63,7 @@ End-to-end ETL pipeline for bank transactions processing. Experimental project w
 Simple ETL pipeline with AI agent that estimates risk of transactions.
 Tech stack: Python, C++, Apache Kafka.
 
-Repository:  
+**Repository**:  
 👉 https://github.com/vladstudennikov/transactions-etl-pipeline
 
 ---
